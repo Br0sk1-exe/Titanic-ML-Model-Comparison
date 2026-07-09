@@ -1,4 +1,4 @@
-```markdown
+
 # 🚢 Titanic ML Model Comparison
 
 An end-to-end Machine Learning project that predicts passenger survival on the Titanic dataset while comparing the performance of multiple classification algorithms.
