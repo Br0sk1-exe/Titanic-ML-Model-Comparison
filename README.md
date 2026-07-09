@@ -161,7 +161,7 @@ Through this project, I learned:
 
 ## 👨‍💻 Author
 
-**Shwetank Swarup**
+**Swetank Swarup**
 
 If you found this project useful, consider giving it a ⭐ on GitHub!
 ```
